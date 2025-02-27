@@ -1,6 +1,6 @@
 import { MealItem } from "./MealItem";
 import useHttp from "../hooks/useHTTP";
-import ErrorCatch from "./Error";
+import ErrorCatch from "./ErrorCatch";
 
 const requestedConfig = {};
 
